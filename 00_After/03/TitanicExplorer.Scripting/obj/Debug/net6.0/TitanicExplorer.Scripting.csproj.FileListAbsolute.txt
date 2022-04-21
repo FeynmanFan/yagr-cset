@@ -1,0 +1,12 @@
+C:\code\cset\TitanicExplorer.Scripting\bin\Debug\net6.0\TitanicExplorer.Scripting.deps.json
+C:\code\cset\TitanicExplorer.Scripting\bin\Debug\net6.0\TitanicExplorer.Scripting.dll
+C:\code\cset\TitanicExplorer.Scripting\bin\Debug\net6.0\TitanicExplorer.Scripting.pdb
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.csproj.AssemblyReference.cache
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.AssemblyInfoInputs.cache
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.AssemblyInfo.cs
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.csproj.CoreCompileInputs.cache
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.dll
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\refint\TitanicExplorer.Scripting.dll
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\TitanicExplorer.Scripting.pdb
+C:\code\cset\TitanicExplorer.Scripting\obj\Debug\net6.0\ref\TitanicExplorer.Scripting.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5eNeGjrNNkhOj1JMXSJ3OJguzBLQOxZo+IHbjWqMzp7QTsc7hU/UPkRQYqNyAhYuPttGI3NjOOT7lxLSVjEibQ==",
+  "success": true,
+  "projectFilePath": "C:\\code\\cset\\TitanicExplorer.Scripting\\TitanicExplorer.Scripting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512"
+  ],
+  "logs": []
+}
